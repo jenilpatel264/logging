@@ -1,0 +1,30 @@
+2023-09-29 22:04:14 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication on jenil with PID 17640 (C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master\target\classes started by jrnilpatel in C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master)
+2023-09-29 22:04:14 [restartedMain] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Running with Spring Boot v1.5.12.RELEASE, Spring v4.3.16.RELEASE
+2023-09-29 22:04:14 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2023-09-29 22:04:18 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 5.13 seconds (JVM running for 6.273)
+2023-09-29 22:05:48 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication on jenil with PID 17640 (C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master\target\classes started by jrnilpatel in C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master)
+2023-09-29 22:05:48 [restartedMain] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Running with Spring Boot v1.5.12.RELEASE, Spring v4.3.16.RELEASE
+2023-09-29 22:05:48 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2023-09-29 22:05:49 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 0.916 seconds (JVM running for 96.941)
+2023-09-29 22:06:43 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication on jenil with PID 17640 (C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master\target\classes started by jrnilpatel in C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master)
+2023-09-29 22:06:43 [restartedMain] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Running with Spring Boot v1.5.12.RELEASE, Spring v4.3.16.RELEASE
+2023-09-29 22:06:43 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2023-09-29 22:06:44 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 0.827 seconds (JVM running for 151.776)
+2023-09-29 22:07:40 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication on jenil with PID 17640 (C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master\target\classes started by jrnilpatel in C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master)
+2023-09-29 22:07:40 [restartedMain] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Running with Spring Boot v1.5.12.RELEASE, Spring v4.3.16.RELEASE
+2023-09-29 22:07:40 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default

@@ -1,0 +1,42 @@
+2023-09-23 16:08:36 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication on jenil with PID 8060 (C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master\target\classes started by jrnilpatel in C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master)
+2023-09-23 16:08:36 [restartedMain] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Running with Spring Boot v1.5.12.RELEASE, Spring v4.3.16.RELEASE
+2023-09-23 16:08:36 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2023-09-23 16:08:37 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 1.913 seconds (JVM running for 2.914)
+2023-09-23 16:14:56 [http-nio-8080-exec-2] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jenil
+2023-09-23 16:14:56 [http-nio-8080-exec-2] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jenil Welcome to Java Techie
+2023-09-23 16:18:10 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication on jenil with PID 8060 (C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master\target\classes started by jrnilpatel in C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master)
+2023-09-23 16:18:10 [restartedMain] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Running with Spring Boot v1.5.12.RELEASE, Spring v4.3.16.RELEASE
+2023-09-23 16:18:10 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2023-09-23 16:18:10 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 0.467 seconds (JVM running for 575.79)
+2023-09-23 16:18:18 [http-nio-8080-exec-2] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jenil
+2023-09-23 16:18:18 [http-nio-8080-exec-2] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jenil Welcome to Java Techie
+2023-09-23 16:18:54 [http-nio-8080-exec-3] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jenil
+2023-09-23 16:18:54 [http-nio-8080-exec-3] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jenil Welcome to Java Techie
+2023-09-23 16:21:51 [http-nio-8080-exec-6] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request virat
+2023-09-23 16:21:51 [http-nio-8080-exec-6] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi virat Welcome to Java Techie
+2023-09-23 16:21:52 [http-nio-8080-exec-7] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request virat
+2023-09-23 16:21:52 [http-nio-8080-exec-7] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi virat Welcome to Java Techie
+2023-09-23 16:21:53 [http-nio-8080-exec-8] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request virat
+2023-09-23 16:21:53 [http-nio-8080-exec-8] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi virat Welcome to Java Techie
+2023-09-23 16:21:54 [http-nio-8080-exec-9] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request virat

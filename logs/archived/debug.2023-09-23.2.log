@@ -1,0 +1,46 @@
+2023-09-23 16:23:08 [http-nio-8080-exec-2] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jaddu
+2023-09-23 16:23:08 [http-nio-8080-exec-2] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jaddu Welcome to Java Techie
+2023-09-23 21:35:18 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication on jenil with PID 8060 (C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master\target\classes started by jrnilpatel in C:\Users\jrnilpatel\Downloads\spring-boot-logging-master\spring-boot-logging-master)
+2023-09-23 21:35:18 [restartedMain] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Running with Spring Boot v1.5.12.RELEASE, Spring v4.3.16.RELEASE
+2023-09-23 21:35:18 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2023-09-23 21:35:19 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 0.58 seconds (JVM running for 19604.308)
+2023-09-23 21:35:24 [http-nio-8080-exec-2] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jaddu
+2023-09-23 21:35:24 [http-nio-8080-exec-2] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jaddu Welcome to Java Techie
+2023-09-23 21:35:25 [http-nio-8080-exec-4] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jaddu
+2023-09-23 21:35:25 [http-nio-8080-exec-4] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jaddu Welcome to Java Techie
+2023-09-23 21:35:30 [http-nio-8080-exec-5] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jaddu
+2023-09-23 21:35:30 [http-nio-8080-exec-5] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jaddu Welcome to Java Techie
+2023-09-23 21:35:31 [http-nio-8080-exec-3] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jaddu
+2023-09-23 21:35:31 [http-nio-8080-exec-3] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jaddu Welcome to Java Techie
+2023-09-23 21:35:32 [http-nio-8080-exec-6] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jaddu
+2023-09-23 21:35:32 [http-nio-8080-exec-6] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jaddu Welcome to Java Techie
+2023-09-23 21:35:45 [http-nio-8080-exec-7] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jaddu
+2023-09-23 21:35:45 [http-nio-8080-exec-7] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jaddu Welcome to Java Techie
+2023-09-23 21:35:46 [http-nio-8080-exec-8] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jaddu
+2023-09-23 21:35:46 [http-nio-8080-exec-8] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jaddu Welcome to Java Techie
+2023-09-23 21:35:47 [http-nio-8080-exec-9] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jaddu
+2023-09-23 21:35:47 [http-nio-8080-exec-9] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi jaddu Welcome to Java Techie
+2023-09-23 21:36:01 [http-nio-8080-exec-10] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request jaddu
